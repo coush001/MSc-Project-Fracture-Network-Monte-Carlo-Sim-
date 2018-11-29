@@ -1,3 +1,4 @@
+from shapely.geometry import LineString
 import numpy as np
 import matplotlib.pyplot as plt
 
